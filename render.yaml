@@ -1,1 +1,1 @@
-buildCommand: ./gradlew build
+buildCommand: ./gradle build
